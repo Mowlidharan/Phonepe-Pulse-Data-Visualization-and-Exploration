@@ -3,7 +3,7 @@ Phonepe Data Visualization based on [data_link](https://github.com/PhonePe/pulse
 ## Installation 
 To install and set up this project efficiently, follow these steps:
 
-1. Prerequisites:
+  1. Prerequisites:
   
       **Code Editor**: Ensure you have VS Code as your code editor.
     
@@ -11,25 +11,25 @@ To install and set up this project efficiently, follow these steps:
     
       **Database**: Set up MySQL.
    
-2.**Clone the Repository:**
-
-  - Clone this repository to your local machine using the following command:
+  2. Clone the Repository:
   
-  ```
-  Clone this repository
-  git clone https://github.com/Mowlidharan/YouTube-Data-Harvesting
-
-  pip install poetry shell
-
-  Step1:
-  poetry shell
+    - Clone this repository to your local machine using the following command:
+    
+    ```
+    Clone this repository
+    git clone https://github.com/Mowlidharan/YouTube-Data-Harvesting
   
-  Step2: [Optional if already module installed]
-  poetry lock --no-update && poetry install --no-root
+    pip install poetry shell
   
-  Step3:
-  streamlit run app.py
-  ```
+    Step1:
+    poetry shell
+    
+    Step2: [Optional if already module installed]
+    poetry lock --no-update && poetry install --no-root
+    
+    Step3:
+    streamlit run app.py
+    ```
 ## Feedback
 
 How to provide feedback for this project.
