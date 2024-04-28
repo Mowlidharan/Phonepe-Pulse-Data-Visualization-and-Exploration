@@ -18,7 +18,7 @@ To install and set up this project efficiently, follow these steps:
   ```
   Clone this repository
   git clone https://github.com/Mowlidharan/YouTube-Data-Harvesting
-
+  pip install poetry shell
   Step1:
   poetry shell
   
