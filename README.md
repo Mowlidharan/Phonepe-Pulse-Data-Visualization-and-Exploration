@@ -12,10 +12,9 @@ To install and set up this project efficiently, follow these steps:
       **Database**: Set up MySQL.
    
   2. Clone the Repository:
-  
+
     - Clone this repository to your local machine using the following command:
-    
-    ```
+
     Clone this repository
     git clone https://github.com/Mowlidharan/YouTube-Data-Harvesting
   
@@ -29,7 +28,6 @@ To install and set up this project efficiently, follow these steps:
     
     Step3:
     streamlit run app.py
-    ```
 ## Feedback
 
 How to provide feedback for this project.
